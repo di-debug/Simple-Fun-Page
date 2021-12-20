@@ -1,0 +1,17 @@
+.special-color-dark {
+    background-color: black;
+}
+
+.card-body {
+    border: 4px;
+    background-color: yellowgreen;
+    display: flexbox;
+}
+
+.card {
+    display: inline-block;
+}
+
+body {
+    background-color: #d0cbc7;
+}
